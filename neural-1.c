@@ -252,19 +252,6 @@ if(flag==1){
 		}
 	}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
     getfiledata(test_vector,test_class,test_len,"test.txt");
 
     for(i=0;i<test_len;i++){
